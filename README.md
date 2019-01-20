@@ -1,2 +1,2 @@
-# system-thinking-with-python
+# systems-thinking-with-python
 A course on Systems Thinking and analysis with Python. 
